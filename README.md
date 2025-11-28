@@ -50,5 +50,3 @@ The development focused on optimizing performance and establishing a clean, main
 ## 🎨 Credit
 The visual design for this project was created by **Mr. Soroosh Kalantarian**  
 Instagram: `@webbys`
-The visual design for this project was created by **Mr. Soroosh Kalantarian**  
-Instagram: `@webbys`
