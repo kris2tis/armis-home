@@ -1,4 +1,5 @@
 
+![armisa home picture cover](https://github.com/user-attachments/assets/b18cbe1f-a47d-48c7-9d79-60eb6fba3ee3)
 
 # 🛍️ Armis Home: E-commerce Platform Development
 
